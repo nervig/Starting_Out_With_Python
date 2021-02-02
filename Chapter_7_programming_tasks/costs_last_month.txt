@@ -1,0 +1,6 @@
+Loan payment 6100
+Petrol 1800
+Food 3000
+Clothes 2500
+Payments by car 3500
+Others 10000
